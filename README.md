@@ -6,7 +6,7 @@ As a passionate Data Analyst/Scientist 🧑‍🔬, I am driven to create value 
 <h2 align="left">Talking about Personal Stuff:</h2>
 <ul>
   <li>
-  👨‍💻 I'm currently working on machine learning applications in the retail industry </li>
+  👨‍💻 I'm currently working on process mining in the insurance industry </li>
   <li>
     :seedling: I'm currently learning feature engineering and prompt engineering </li>
   <li>
