@@ -1,50 +1,57 @@
-<h1 align="center">Hi there, I'm Alex 👋</h1>
+<div align="center">
 
+# Hey, I'm Alex 👋
 
-As a passionate Data Analyst/Scientist 🧑‍🔬, I am driven to create value 💎 and make a positive impact through data-driven solutions. With a deep commitment :climbing:to problem-solving, I leverage my expertise to deliver valuable insights and drive innovation.🚀
+**AI & Data Engineering · Process Intelligence · Agent Architecture**
 
-<h2 align="left">Talking about Personal Stuff:</h2>
-<ul>
-  <li>
-  👨‍💻 I'm currently working on process mining in the insurance industry </li>
-  <li>
-    :seedling: I'm currently learning feature engineering and prompt engineering </li>
-  <li>
-   📬 How to reach me: 
-   <a href="https://linkedin.com/in/alex-holzer-data">@alex-holzer</a>
-  </li>
-</ul>
+*Turning complex operations into intelligent, automated systems — one pipeline at a time.* 🚀
 
- 
-<p align="left">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--holzer--data-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-holzer-data)
+[![Profile Views](https://komarev.com/ghpvc/?username=alex-holzer&color=0A66C2&style=flat)](https://github.com/alex-holzer)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+</div>
 
+---
 
+I build AI systems that make complex enterprise operations measurably smarter — from mining process data to designing LLM agents that work reliably in regulated, high-stakes environments. 🧠
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/docs/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sciki-learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/> </a> <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://plotly.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/index.html" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://docs.bokeh.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://static.bokeh.org/branding/icons/bokeh-icon.svg" alt="bokeh" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/de-de/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.celonis.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/de/3/38/Celonis_logo.svg" alt="celonis" width="40" height="40"/> </a> <a href="https://support.sas.com/en/software/enterprise-guide-support.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+My focus: **applying AI where domain complexity is highest** — in insurance, financial services, and large-scale data pipelines where generic solutions fall short and thoughtful architecture matters. 🎯
 
-___
-<p align="center">
- <img  src="https://github-readme-stats.vercel.app/api?username=alex-holzer&show_icons=true&theme=github_dark">
-</p>
+> 💡 *The highest-value AI work in enterprise isn't replacing humans — it's eliminating the coordination overhead that stops domain experts from doing their best work.*
 
+---
 
+## 🛠️ Tech stack
 
+**📊 Data & Analytics**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Celonis](https://img.shields.io/badge/Celonis-000000?style=flat&logo=celonis&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
+**🤖 AI & Agents**
 
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat&logo=openai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-258FFA?style=flat&logo=microsoft&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
+**⚙️ Dev Tooling**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat&logo=python&logoColor=white)
 
+---
 
+📬 Let's connect on [LinkedIn](https://linkedin.com/in/alex-holzer-data) — always happy to chat about AI agents, process mining, and enterprise AI in financial services! 🤝
 
+---
 
-
-
-
-
-
+<div align="center">
+<sub>🔍 Building AI systems that respect domain complexity — not just demo-day hype.</sub>
+</div>
