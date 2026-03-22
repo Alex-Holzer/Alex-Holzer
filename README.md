@@ -51,7 +51,7 @@ My focus: **applying AI where domain complexity is highest** — in insurance, f
 
 ---
 
-📬 Let's connect on [LinkedIn](https://www.www.linkedin.com/in/alex-holzer-data) — always happy to chat about AI agents, process mining, and enterprise AI in financial services! 🤝
+📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/alex-holzer-data) — always happy to chat about AI agents, process mining, and enterprise AI in financial services! 🤝
 
 ---
 
