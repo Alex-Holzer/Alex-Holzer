@@ -6,7 +6,7 @@
 
 *Turning complex operations into intelligent, automated systems — one pipeline at a time.* 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--holzer--data-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-holzer-data)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--holzer--data-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/alex-holzer-data)
 [![Profile Views](https://komarev.com/ghpvc/?username=alex-holzer&color=0A66C2&style=flat)](https://github.com/alex-holzer)
 
 </div>
